@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas Zaki
 
-<!--
-**Anas-Zaki/Anas-Zaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Business and Data Analyst skilled in Python, SQL, Power BI, and Excel
+📍 India • 📫 [LinkedIn](www.linkedin.com/in/mr-zaki/) |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- **Languages & Tools**: Python, SQL, Power BI, Excel, Git, MySQL
+- **Libraries & Packages**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Concepts**: Data Cleaning, EDA, Data Visualization, Machine Learning, Dashboarding
+- **Other**: DAX, Star Schema Modeling, Row-Level Security, GitHub Collaboration
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 [Retention-Radar: Telecom Customer Insights](https://github.com/Anas-Zaki/Retention-Radar-Telecom-Customer-Insights)
+> *Python · Scikit-learn · Power BI · Pandas · Team Project*  
+- Built a customer churn prediction pipeline with 87% accuracy using Logistic Regression  
+- Cleaned and transformed data with Pandas & NumPy  
+- Designed Power BI dashboards with KPIs, filters, and RLS  
+- Collaborated in a 3-member team managing Power BI and GitHub
+
+---
+
+### 🔹 NFT Sales Analysis & Price Trends
+> *Python · Pandas · Seaborn · EDA · Visualization*  
+- Analyzed 1M+ NFT transactions to uncover pricing patterns and seasonal trends  
+- Cleaned data using Pandas and visualized insights with line charts, box plots, and heatmaps  
+- Highlighted top-performing collections, expensive assets, and market behavior
+
+---
+
+### 🔹 [SAL_BW_Project – Book Data Analysis](https://github.com/Anas-Zaki/SAL_BW_Project)
+> *Web Scraping · SQL · EDA · Pandas · BeautifulSoup*  
+- Scraped book data (title, price, rating, availability) using BeautifulSoup  
+- Stored cleaned data in CSV and queried with MySQL for insights  
+- Performed EDA with Pandas, Seaborn to visualize pricing and rating trends
+
+---
+
+### 🔹 [Scrape_quotes_universe – Quotes Data Scraper](https://github.com/Anas-Zaki/scrape_quotes_universe)
+> *Python · Web Scraping · SQL · Data Visualization*  
+- Scraped quotes, authors, and tags from multiple pages using BeautifulSoup  
+- Structured data into MySQL and ran SQL queries for insights (e.g., top authors, most used tags)  
+- Visualized quote lengths, common words, and tag distributions using Seaborn & Matplotlib
+
+---
+
+### 🔹 [RetailPulse – Sales & Customer Insights Dashboard](https://github.com/Anas-Zaki/RetailPulse-Sales-Performance-Customer-Insights-Dashboard)
+> *Power BI · SQL · Python · DAX · Business Intelligence*  
+- Cleaned and modeled Superstore data for sales analysis using Pandas and Power Query  
+- Built Power BI dashboard with DAX measures, custom visuals, and row-level security  
+- Extracted business insights with SQL: top customers, regional performance, profit trends  
+- Collaborated with Avishek Das for dashboard design and storytelling
+
+---
+
+
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](www.linkedin.com/in/mr-zaki/)
+- 📧 aashuzaki@gmail.com
+
+---
+
+> *“Learning never exhausts the mind. Keep building, keep analyzing.”*
+
