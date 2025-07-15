@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anas Zaki
 
 🎯 Aspiring Business and Data Analyst skilled in Python, SQL, Power BI, and Excel
-📍 India • 📫 [LinkedIn](www.linkedin.com/in/mr-zaki/) |
+📍 India • 📫 [LinkedIn](https://www.linkedin.com/in/mr-zaki) |
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🔹 NFT Sales Analysis & Price Trends
+### 🔹 [NFT Sales Analysis & Price Trends](https://github.com/Anas-Zaki/NFT_data_analysis)
 > *Python · Pandas · Seaborn · EDA · Visualization*  
 - Analyzed 1M+ NFT transactions to uncover pricing patterns and seasonal trends  
 - Cleaned data using Pandas and visualized insights with line charts, box plots, and heatmaps  
@@ -62,7 +62,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/mr-zaki/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mr-zaki)
 - 📧 aashuzaki@gmail.com
 
 ---
