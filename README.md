@@ -16,6 +16,23 @@
 
 ## 📊 Featured Projects
 
+### 🔹 [RetailPulse – Sales & Customer Insights Dashboard](https://github.com/Anas-Zaki/RetailPulse-Sales-Performance-Customer-Insights-Dashboard)
+> *Power BI · SQL · Python · DAX · Business Intelligence*  
+- Cleaned and modeled Superstore data for sales analysis using Pandas and Power Query  
+- Built Power BI dashboard with DAX measures, custom visuals, and row-level security  
+- Extracted business insights with SQL: top customers, regional performance, profit trends  
+- Collaborated with Avishek Das for dashboard design and storytelling
+
+---
+
+### 🔹 [SAL_BW_Project – Book Data Analysis](https://github.com/Anas-Zaki/SAL_BW_Project)
+> *Web Scraping · SQL · EDA · Pandas · BeautifulSoup*  
+- Scraped book data (title, price, rating, availability) using BeautifulSoup  
+- Stored cleaned data in CSV and queried with MySQL for insights  
+- Performed EDA with Pandas, Seaborn to visualize pricing and rating trends
+
+---
+
 ### 🔹 [Retention-Radar: Telecom Customer Insights](https://github.com/Anas-Zaki/Retention-Radar-Telecom-Customer-Insights)
 > *Python · Scikit-learn · Power BI · Pandas · Team Project*  
 - Built a customer churn prediction pipeline with 87% accuracy using Logistic Regression  
@@ -33,28 +50,13 @@
 
 ---
 
-### 🔹 [SAL_BW_Project – Book Data Analysis](https://github.com/Anas-Zaki/SAL_BW_Project)
-> *Web Scraping · SQL · EDA · Pandas · BeautifulSoup*  
-- Scraped book data (title, price, rating, availability) using BeautifulSoup  
-- Stored cleaned data in CSV and queried with MySQL for insights  
-- Performed EDA with Pandas, Seaborn to visualize pricing and rating trends
 
----
 
 ### 🔹 [Scrape_quotes_universe – Quotes Data Scraper](https://github.com/Anas-Zaki/scrape_quotes_universe)
 > *Python · Web Scraping · SQL · Data Visualization*  
 - Scraped quotes, authors, and tags from multiple pages using BeautifulSoup  
 - Structured data into MySQL and ran SQL queries for insights (e.g., top authors, most used tags)  
 - Visualized quote lengths, common words, and tag distributions using Seaborn & Matplotlib
-
----
-
-### 🔹 [RetailPulse – Sales & Customer Insights Dashboard](https://github.com/Anas-Zaki/RetailPulse-Sales-Performance-Customer-Insights-Dashboard)
-> *Power BI · SQL · Python · DAX · Business Intelligence*  
-- Cleaned and modeled Superstore data for sales analysis using Pandas and Power Query  
-- Built Power BI dashboard with DAX measures, custom visuals, and row-level security  
-- Extracted business insights with SQL: top customers, regional performance, profit trends  
-- Collaborated with Avishek Das for dashboard design and storytelling
 
 ---
 
