@@ -24,7 +24,7 @@
 - Analyzed ATM performance: revenue, gross profit, uptime, and transaction trends  
 - Generated actionable insights for **cost optimization**, **cash planning**, and operational efficiency  
 - Focused on **state-wise analysis**, highlighting top-performing and underperforming regions  
-
+---
 
 ### 🔹 [RetailPulse – Sales & Customer Insights Dashboard](https://github.com/Anas-Zaki/RetailPulse-Sales-Performance-Customer-Insights-Dashboard)
 > *Power BI · SQL · Python · DAX · Business Intelligence*  
